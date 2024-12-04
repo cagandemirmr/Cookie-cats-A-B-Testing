@@ -1,5 +1,8 @@
 # A/B Testing Analysis with Python and Power BI
 
+![image](https://github.com/user-attachments/assets/da75cd8c-d5ba-4a55-a990-9d83e56a5638)
+
+
 This repository contains a project that analyzes A/B test results using Python and Power BI. The analysis evaluates whether there are statistically significant differences between two levels (Gate 30 and Gate 40) of a mobile game based on player retention rates and gaming behavior.
 
 ## Table of Contents
